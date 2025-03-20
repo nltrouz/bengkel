@@ -32,7 +32,7 @@ Berikut adalah README untuk proyek bengkel **Abakura**, yang dibangun menggunaka
 
 1. **Clone repository ini**
    ```bash
-   git clone https://github.com/username/abakura.git
+   git clone https://github.com/nltrouz/bengkel.git
    cd abakura
    ```
 2. **Install dependensi**
@@ -58,4 +58,4 @@ Berikut adalah README untuk proyek bengkel **Abakura**, yang dibangun menggunaka
    ```bash
    php artisan serve
    npm run dev
-   ``
+   ```
