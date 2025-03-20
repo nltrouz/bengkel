@@ -6,8 +6,15 @@ Berikut adalah README untuk proyek bengkel **Abakura**, yang dibangun menggunaka
 
 <p align="center">
   <a href="https://laravel.com" target="_blank">
-    <img src="https://instagram.fjog1-1.fna.fbcdn.net/v/t51.2885-19/435102845_1451276282145176_6585258867859699327_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fjog1-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2QF48qu-50kPOIqM-jiuzmDBXIoUYwp0gf1ynKctQWBX2iWTEFG_-1JZdTku7T7Vfag&_nc_ohc=RlGY4Ris1A4Q7kNvgGu27Ay&_nc_gid=fOW5I8ozDznk62oMncclPQ&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AYG248BV-uBRv7moqdbY9m0qjTC5vEjniqXU-hMjmpFjLA&oe=67E15EC1&_nc_sid=22de04" width="200" alt="Abakura Logo">
+    <img src="https://i.pinimg.com/originals/0b/18/d7/0b18d74a360882472be99d2ad8e9d966.gif" width="200" alt="Abakura Logo">
   </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
 ## 📌 Tentang Abakura
