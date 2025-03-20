@@ -30,7 +30,7 @@
 1. **Clone repository ini**
    ```bash
    git clone https://github.com/nltrouz/bengkel.git
-   cd abakura
+   cd bengkel
    ```
 2. **Install dependensi**
    ```bash
