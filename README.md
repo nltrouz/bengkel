@@ -1,6 +1,3 @@
-Berikut adalah README untuk proyek bengkel **Abakura**, yang dibangun menggunakan Laravel, Breeze, dan Tailwind CSS.
-
----
 
 # Abakura - Sistem Manajemen Bengkel
 
@@ -21,7 +18,7 @@ Berikut adalah README untuk proyek bengkel **Abakura**, yang dibangun menggunaka
 
 **Abakura** adalah sistem manajemen bengkel berbasis web yang dibuat menggunakan **Laravel**, dengan autentikasi menggunakan **Breeze** dan tampilan menggunakan **Tailwind CSS**. Sistem ini memudahkan pengelolaan booking kendaraan, riwayat servis, dan monitoring status perbaikan.
 
-## 🚀 Teknologi yang Digunakan
+## 🚀 Tools yang Digunakan
 
 - **Laravel** - Framework PHP untuk backend
 - **Laravel Breeze** - Sistem autentikasi sederhana dan ringan
